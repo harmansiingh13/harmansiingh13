@@ -1,5 +1,3 @@
-![Profile Preview](public/img/profile_preview.png)
-
 <h1 align="center">👋 Hi, I'm Harmanpreet Singh</h1>
 <p align="center">
   A passionate <b>Full Stack Developer</b> and <b>AI Enthusiast</b> from Mohali, Punjab, India.
@@ -87,15 +85,6 @@ A replica of the award-winning Lazarev website, demonstrating advanced UI/UX cap
 ## 🧩 Soft Skills
 
 - **Communication Skills**, **Problem Solving**, **Leadership**, **Teamwork**, **Time Management**
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Harmanpreet Singh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Harmanpreet Singh's GitHub Streak Stats" />
-</p>
 
 ---
 
