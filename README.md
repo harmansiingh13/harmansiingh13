@@ -19,11 +19,11 @@
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/harmansingh001" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="180" height="100" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="100" />
   </a>
   <span>&nbsp;&nbsp;</span> <!-- Adds space between buttons -->
   <a href="mailto:sardarpreet001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" width="150" height="100" />
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" width="90" height="100" />
   </a>
 </p>
 
