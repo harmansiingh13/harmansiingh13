@@ -8,8 +8,8 @@
   <a href="mailto:sardarpreet001@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/HarmanSingh001">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://get-harman-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
