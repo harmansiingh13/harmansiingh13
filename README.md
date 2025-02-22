@@ -30,7 +30,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in computer s
 - 💼 **Work Experience**:  
   - **Full Stack Developer Intern** at Stream Infotech (June 2024 - July 2024)  
     - Enhanced user experiences and optimized back-end processes for seamless application performance.  
-- 🌐 **Languages**: English | Hindi | Punjabi  
+- 🌐 **Languages**: English | Punjabi | Hindi   
 
 ---
 
