@@ -11,7 +11,11 @@
   <a href="https://get-harman-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://leetcode.com/u/HarmanSingh_001/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 </p>
+
 
 ---
 
