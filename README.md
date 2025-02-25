@@ -73,7 +73,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in computer s
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarmanSingh001&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarmanSingh001&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarmanSingh001&theme=radical&hide_border=true" alt="Contribution Streak" width="48%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarmanSingh001&theme=radical&hide_border=true" alt="Contribution Streak" width="48%" /> -->
 </div>
 
 ---
@@ -85,11 +85,3 @@ I'm a passionate **Full Stack Developer** with a strong foundation in computer s
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative web solutions**.
 - 💬 Ask me about **React, Node.js, or anything web development-related**.
 - 📫 How to reach me: [sardarpreet001@gmail.com](mailto:sardarpreet001@gmail.com) | [LinkedIn](https://linkedin.com/in/harmansingh001)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarmanSingh001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
