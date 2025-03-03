@@ -22,10 +22,10 @@
 
 I'm a passionate **Full Stack Developer** with a strong foundation in computer science and hands-on experience in building scalable web applications. I thrive on solving complex problems and creating seamless user experiences. Currently pursuing my **Bachelor of Engineering in Computer Science** at **Chandigarh University**, I am constantly expanding my skill set and exploring new technologies.
 
-- 🌍 **Location**: Gurdaspur, Punjab, India
+- 🌍 **Location**: Chandigarh, India
 - 🎓 **Education**:
   - Bachelor of Engineering in Computer Science
-  - Chandigarh University | Expected Graduation: May 2025 | Current CGPA: 7.1
+  - Chandigarh University | Expected Graduation: May 2025 | Current CGPA: 7.0
 - 💼 **Work Experience**:
   - **Full Stack Developer Intern** at Stream Infotech (June 2024 - July 2024)
     - Enhanced user experiences and optimized back-end processes for seamless application performance.
