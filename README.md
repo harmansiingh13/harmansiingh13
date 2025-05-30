@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Harmanpreet Singh</h1>
-<h3 align="center">🚀 Web Developer Who Codes, Learns & Evolves | Open to Scalable Tech, Growth & New Challenges</h3>
+<h3 align="center">Web Developer Who Codes, Learns & Evolves | Open to Scalable Tech, Growth & New Challenges</h3>
 
 <p align="center">
   <a href="https://get-harman-portfolio.vercel.app" target="_blank">
