@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Harmanpreet Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | Web Enthusiast | Lifelong Learner</h3>
+<h3 align="center">🚀 Web Developer Who Codes, Learns & Evolves | Open to Scalable Tech, Growth & New Challenges</h3>
 
 <p align="center">
   <a href="https://get-harman-portfolio.vercel.app" target="_blank">
@@ -20,15 +20,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** with a strong foundation in computer science and hands-on experience in building scalable web applications. I thrive on solving complex problems and creating seamless user experiences. Currently pursuing my **Bachelor of Engineering in Computer Science** at **Chandigarh University**, I am constantly expanding my skill set and exploring new technologies.
+I am a highly motivated and versatile software developer committed to continuous learning and technical excellence. Rather than specializing narrowly, I embrace a broad exploration of technologies, frameworks, and systems, equipping myself to solve complex, large-scale problems.
+Driven by a passion for clean, efficient, and scalable code, I actively engage with challenging projects and contribute to open-source communities to sharpen my skills. I thrive in fast-paced, innovation-driven environments and am eager to collaborate on impactful solutions that push the boundaries of technology.
+My goal is to join a forward-thinking organization where I can leverage my adaptability, strong foundation in full-stack development, and problem-solving skills to contribute meaningfully and grow alongside industry leaders.
 
 - 🌍 **Location**: Chandigarh, India
 - 🎓 **Education**:
   - Bachelor of Engineering in Computer Science
-  - Chandigarh University | Expected Graduation: May 2025 | Current CGPA: 7.0
 - 💼 **Work Experience**:
   - **Full Stack Developer Intern** at Stream Infotech (June 2024 - July 2024)
-    - Enhanced user experiences and optimized back-end processes for seamless application performance.
 - 🌐 **Languages**: English | Punjabi | Hindi
 
 ---
@@ -84,8 +84,5 @@ I'm a passionate **Full Stack Developer** with a strong foundation in computer s
 
 ## 🚀 What I'm Up To
 
-- 🔭 I’m currently working on **building scalable web applications**.
-- 🌱 I’m learning **advanced backend architectures** and **cloud computing**.
-- 👯 I’m looking to collaborate on **open-source projects** and **innovative web solutions**.
-- 💬 Ask me about **React, Node.js, or anything web development-related**.
-- 📫 How to reach me: [sardarpreet001@gmail.com](mailto:sardarpreet001@gmail.com) | [LinkedIn](https://linkedin.com/in/harmansingh001)
+- 🔭 I’m currently working at **Agilsys Software Labs Pvt. Ltd.**.
+- 📫 How to reach me: [hrmn.siingh@gmail.com](mailto:hrmn.siingh@gmail.com) | [LinkedIn](https://linkedin.com/in/harmansiingh13)
