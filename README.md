@@ -24,7 +24,7 @@ I am a highly motivated and versatile software developer committed to continuous
 Driven by a passion for clean, efficient, and scalable code, I actively engage with challenging projects and contribute to open-source communities to sharpen my skills. I thrive in fast-paced, innovation-driven environments and am eager to collaborate on impactful solutions that push the boundaries of technology.
 My goal is to join a forward-thinking organization where I can leverage my adaptability, strong foundation in full-stack development, and problem-solving skills to contribute meaningfully and grow alongside industry leaders.
 
-- 🌍 **Location**: Mohali — Punjab, India
+- 🌍 **Location**: Mohali, India
 - 🎓 **Education**:
   - Bachelor of Engineering in Computer Science
 - 💼 **Work Experience**:
