@@ -5,13 +5,13 @@
   <a href="https://get-harman-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/harmansingh001" target="_blank">
+  <a href="https://linkedin.com/in/harmansiingh13" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:sardarpreet001@gmail.com">
+  <a href="mailto:hrmn.siingh@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/u/HarmanSingh_001/" target="_blank">
+  <a href="https://leetcode.com/u/HarmanSingh13/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
