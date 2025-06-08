@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I am a highly motivated and versatile software developer committed to continuous learning and technical excellence. Rather than specializing narrowly, I embrace a broad exploration of technologies, frameworks, and systems, equipping myself to solve complex, large-scale problems.
+I am a highly motivated and versatile full stack web developer committed to continuous learning and technical excellence. Rather than specializing narrowly, I embrace a broad exploration of technologies, frameworks, and systems, equipping myself to solve complex, large-scale problems.
 Driven by a passion for clean, efficient, and scalable code, I actively engage with challenging projects and contribute to open-source communities to sharpen my skills. I thrive in fast-paced, innovation-driven environments and am eager to collaborate on impactful solutions that push the boundaries of technology.
 My goal is to join a forward-thinking organization where I can leverage my adaptability, strong foundation in full-stack development, and problem-solving skills to contribute meaningfully and grow alongside industry leaders.
 
