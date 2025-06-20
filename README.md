@@ -38,10 +38,9 @@ My goal is to join a forward-thinking organization where I can leverage my adapt
 <div align="center">
   
 ### Programming Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frontend Development
 
@@ -66,7 +65,6 @@ My goal is to join a forward-thinking organization where I can leverage my adapt
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
 
 </div>
 
@@ -75,8 +73,8 @@ My goal is to join a forward-thinking organization where I can leverage my adapt
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarmanSingh001&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarmanSingh001&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harmansiingh13&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmansiingh13&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarmanSingh001&theme=radical&hide_border=true" alt="Contribution Streak" width="48%" /> -->
 </div>
 
